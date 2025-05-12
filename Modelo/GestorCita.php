@@ -1,7 +1,7 @@
-Este código define una clase Paciente en PHP que se utiliza para manejar los datos relacionados con un paciente, como su identificación, nombres, apellidos, fecha de nacimiento y sexo.
+<!-- Este código define una clase Paciente en PHP que se utiliza para manejar los datos relacionados con un paciente, como su identificación, nombres, apellidos, fecha de nacimiento y sexo.
 
 Explicación:
-Propiedades privadas:
+Propiedades privadas: -->
 
 $identificacion: Almacena el número de identificación del paciente.
 $nombres: Almacena el nombre del paciente.
